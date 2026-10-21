@@ -1,0 +1,40 @@
+DBMS PROJECT SCREENSHOTS
+
+The uploaded images show these MySQL database/table creation exercises:
+
+1. Database: sasidhar; Table: student
+   - regno INT(3)
+   - name CHAR(15)
+   - gender CHAR(1)
+   - dob INT(10)
+   - mobileno INT(10)
+   - city CHAR(10)
+
+2. Database: subject; Table: course
+   - courseno INT(3)
+   - coursedesc CHAR(15)
+   - coursetype CHAR(1)
+   - semno INT(10)
+   - hallno INT(10)
+   - facno INT(10)
+
+3. Database: department; Table: department
+   - depno INT(10)
+   - depname CHAR(10)
+   - dephead CHAR(10)
+
+4. Database: divya; Table: student
+   - regno INT(3)
+   - name CHAR(15)
+   - gender CHAR(1)
+   - dob INT(10)
+   - mobileno INT(10)
+   - city CHAR(10)
+
+5. Database: faculty; Table: faculty
+   - facno INT(4)
+   - facname CHAR(15)
+   - gender CHAR(1)
+   - dob INT(10)
+   - doj INT(10)
+   - mobileno INT(10)
